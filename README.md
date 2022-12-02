@@ -1,6 +1,6 @@
  - 👋 Hi, I’m @jayanthvelu
  - 👀 I’m interested in Industrial IoT and Machine learning
- - 🌱 I’m currently learning Masters in software engineering
+ - 🌱 I’m currently learning Masters in Software Engineering @ TU Kaiserslautern
  - 💞️ I’m looking to collaborate on Machine learning and AI
  - 📫 How to reach me jayanthvelu@gmail.com
 
